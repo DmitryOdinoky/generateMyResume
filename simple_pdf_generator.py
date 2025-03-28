@@ -96,7 +96,7 @@ def generate_resume_pdf(markdown_file='README.md', output_file='resume.pdf', css
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Convert Markdown resume to PDF')
     parser.add_argument('--input', '-i', default='README.md', help='Input markdown file path')
-    parser.add_argument('--output', '-o', default='resume.pdf', help='Output PDF file path')
+    parser.add_argument('--output', '-o', default='resume_DmitryOdinoky.pdf', help='Output PDF file path')
     parser.add_argument('--css', '-c', help='Custom CSS file path')
     
     args = parser.parse_args()
