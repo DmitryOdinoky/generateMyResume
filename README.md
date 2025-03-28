@@ -19,16 +19,22 @@ MSc (Eng) focused on robotics, artificial intelligence, acoustics, and human per
 ## Work Experience
 
 ### Data Scientist / ML Engineer
+<img src="ship_projects_ltd_logo.jpg" alt="ShipProjects Logo" width="200" style="margin: 10px 0;" />
+
 **ShipProjects** | Riga, LV | *2024-08 - present*
 
 Data analysis, training and deployment of machine learning models, product research and development.
 
 ### Research Engineer
+<img src="sonarworks_logo.jpg" alt="Sonarworks Logo" width="200" style="margin: 10px 0;" />
+
 **Sonarworks** | Riga, LV | *2018-08 - 2024-08*
 
 Participated in the internal prototyping, development and testing of such products as SoundID Reference, VoiceAI and SoundID™ Audio Personalization App.
 
 ### Product Specialist, Customer Support
+<img src="yamaha_corporation_logo.jpg" alt="Yamaha Logo" width="200" style="margin: 10px 0;" />
+
 **Yamaha Music Europe** | *2012-09 - 2025-03*
 
 Work on part-time basis over 10 years, support product dealers by answering e-mail requests during weekends (7-10 requests/month).
