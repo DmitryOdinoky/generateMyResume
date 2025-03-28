@@ -62,19 +62,15 @@ Bachelor's degree, Robotics and Artificial Intelligence
 
 ## Qualifications
 
-- API Development
 - Data Science
 - Machine Learning
 - Psychoacoustics
-- Artificial Intelligence (AI)
 - Research and Development (R&D)
-- Computer Science
 - Acoustics
 - Sound Design
-- Software Testing (Java and Python frameworks)
-- Python (for backend development, feature prototyping, data processing and visualization)
-- Python ML frameworks (PyTorch, TensorFlow, etc)
-- Java
+- CI/CD, git, automated test frameworks
+- Python for backend development, feature prototyping, data processing and visualization
+- Python ML frameworks (PyTorch, TensorFlow, scikit-learn, etc)
 - C++
 - C#
 - MATLAB
