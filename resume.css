@@ -1,0 +1,122 @@
+/* resume.css - Custom styling for resume PDF output */
+
+@page {
+    margin: 1cm;
+    size: A4;
+}
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+    font-size: 11pt;
+}
+
+/* Header/Name styling */
+h1 {
+    color: #2c3e50;
+    font-size: 24pt;
+    margin-bottom: 5px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Section headings */
+h2 {
+    color: #3498db;
+    font-size: 16pt;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+/* Job titles */
+h3 {
+    color: #2c3e50;
+    font-size: 13pt;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+/* Company and date styling */
+h3 + p {
+    font-style: italic;
+    margin-top: 0;
+    color: #555;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin: 10px 0;
+    border: 2px solid #eee;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+/* Smaller company logos */
+h3 + p img {
+    width: 20px;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+/* Personal info section */
+h1 + p {
+    margin-bottom: 15px;
+}
+
+ul {
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Bold text */
+strong {
+    color: #2c3e50;
+}
+
+/* Fix for emoji rendering */
+img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    display: inline;
+    border: none;
+    box-shadow: none;
+}
+
+/* Contact info */
+p:nth-of-type(1) {
+    line-height: 1.8;
+}
+
+/* Two-column layout for skills */
+@media print {
+    #qualifications {
+        column-count: 2;
+        column-gap: 20px;
+    }
+}
