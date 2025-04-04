@@ -209,7 +209,7 @@ def generate_resume_pdf(markdown_file='README.md', output_file='resume.pdf'):
     
     qualifications = [
         "Data Science", "Machine Learning", "Psychoacoustics", 
-        "Research and Development (R&D)", "Acoustics", "Sound Design",
+        "Research and Development", "Acoustics", "Sound Design",
         "CI/CD, git, automated test frameworks",
         "Python for backend development, feature prototyping, data processing and visualization",
         "Python ML frameworks (PyTorch, TensorFlow, scikit-learn, etc)",
@@ -234,7 +234,7 @@ def generate_resume_pdf(markdown_file='README.md', output_file='resume.pdf'):
     elements.append(Paragraph("Certifications", heading_style))
     elements.append(Spacer(1, 0.1*inch))
     
-    elements.append(Paragraph("• RTU Zelta Fonds (GPA: 8.11/10) - <a href='https://www.rtu.lv/writable/public_files/RTU_zelta_fonds_2022.2023.pdf' color='blue'>RTU Golden Fund 2022/2023, p.37</a>", normal_style))
+    elements.append(Paragraph("• RTU Zelta Fonds (GPA: 3.24/4.0) - <a href='https://www.rtu.lv/writable/public_files/RTU_zelta_fonds_2022.2023.pdf' color='blue'>Riga Technical University Golden Fund 2022/2023, p.37</a>", normal_style))
     elements.append(Paragraph("• Ableton Certified Trainer", normal_style))
     elements.append(Paragraph("• Audio Signal Processing for Music Applications (Universitat Pompeu Fabra of Barcelona)", normal_style))
     

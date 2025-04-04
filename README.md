@@ -70,7 +70,7 @@ Bachelor's degree, Robotics and Artificial Intelligence
 - Data Science
 - Machine Learning
 - Psychoacoustics
-- Research and Development (R&D)
+- Research and Development
 - Acoustics
 - Sound Design
 - CI/CD, git, automated test frameworks
@@ -91,6 +91,6 @@ Bachelor's degree, Robotics and Artificial Intelligence
 
 ## Certifications
 
-- RTU Zelta Fonds (GPA: 8.11/10) - [RTU Golden Fund 2022/2023, p.37](https://www.rtu.lv/writable/public_files/RTU_zelta_fonds_2022.2023.pdf)
+- RTU Zelta Fonds (GPA: 3.24/4.0) - [RTU Golden Fund 2022/2023, p.37](https://www.rtu.lv/writable/public_files/RTU_zelta_fonds_2022.2023.pdf)
 - Ableton Certified Trainer
 - Audio Signal Processing for Music Applications (Universitat Pompeu Fabra of Barcelona)
